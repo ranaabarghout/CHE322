@@ -12,7 +12,7 @@ This repository is organized to provide you with easy access to some course mate
 - **resources:** Supplementary materials and useful links to enhance your understanding.
 
 ## Getting Started
-To get started, navigate to the relevant folders and explore the contents. Make sure to check the [Wiki](wiki) for additional documentation and guidelines.
+To get started, navigate to the relevant folders and explore the contents.
 
 ## Communication
 Feel free to use the [issues](https://github.com/ranaabarghout/CHE322/issues) section for asking questions, discussing course topics, or reporting any issues you encounter. We encourage collaboration and open communication among students and instructors.
