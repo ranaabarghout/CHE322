@@ -15,7 +15,7 @@ This repository is organized to provide you with easy access to some course mate
 To get started, navigate to the relevant folders and explore the contents. Make sure to check the [Wiki](wiki) for additional documentation and guidelines.
 
 ## Communication
-Feel free to use the [Issues](issues) section for asking questions, discussing course topics, or reporting any issues you encounter. We encourage collaboration and open communication among students and instructors.
+Feel free to use the [issues](https://github.com/ranaabarghout/CHE322/issues) section for asking questions, discussing course topics, or reporting any issues you encounter. We encourage collaboration and open communication among students and instructors.
 
 ## How to Contribute
 If you spot errors, have suggestions for improvement, or want to contribute to the repository, please follow our [contribution guidelines](CONTRIBUTING.md).
