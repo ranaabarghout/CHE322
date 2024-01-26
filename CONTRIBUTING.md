@@ -46,7 +46,5 @@ Welcome to the contributing guide for the 'Project Files' in CHE322: Process Con
    - Respond to feedback and comments on your pull request promptly.
    - Address concerns and make necessary changes as requested.
 
-## Code of Conduct
-
 
 ## Thank You!
