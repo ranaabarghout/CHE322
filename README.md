@@ -6,10 +6,9 @@ Welcome to the GitHub repository for CHE322: Process Control, a third-year under
 In this course, we delve into the world of process control, exploring the principles and techniques essential for managing and optimizing chemical processes. From theory to practical applications, we cover a range of topics that will equip you with the skills needed to design and maintain efficient processes.
 
 ## Repository Structure
-This repository is organized to provide you with easy access to some course materials, project resources, and additional resources. Here's a brief overview:
+This repository is organized to provide you with easy access to some of the course's project material:
 
-- **project files:** Find process files, including Python notebooks and PDFs for each project.
-- **resources:** Supplementary materials and useful links to enhance your understanding.
+- **project files:** Find process files, including Python notebooks and PDFs for each project. These also include ASPEN output files from each project part's manuals. 
 
 ## Getting Started
 To get started, navigate to the relevant folders and explore the contents.
